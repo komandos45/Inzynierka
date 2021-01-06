@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/World/World.unity
+    path: Assets/Scenes/World.unity
     guid: 829d87d1f32d464429b8cf6688cf341b
   - enabled: 1
-    path: Assets/Scenes/Capture/Capture.unity
+    path: Assets/Scenes/Capture.unity
     guid: c8b31d8bc008eaf43a565f8179d20004
   - enabled: 1
-    path: Assets/Scripts/Board.unity
+    path: Assets/Scenes/Board.unity
     guid: a442840779bec3e4dad6ce04aa18d30e
   m_configObjects: {}
